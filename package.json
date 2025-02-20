@@ -1,0 +1,23 @@
+{
+  "name": "controlmium",
+  "version": "1.0.0",
+  "description": "A library that simplifies the use of the Chrome DevTools Protocol to automate tasks in Chromium-based browsers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renzabc/controlmium.git"
+  },
+  "keywords": [
+    "chrome",
+    "devtools"
+  ],
+  "author": "Renz Agamanos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renzabc/controlmium/issues"
+  },
+  "homepage": "https://github.com/renzabc/controlmium#readme"
+}
