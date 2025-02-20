@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "target": "ESNext", // The JavaScript version to compile to
+        "module": "ESNext", // ES Module syntax
+        "moduleResolution": "node", // Helps resolve modules in Node.js
+        "outDir": "./dist", // Output directory for compiled files
+        "esModuleInterop": true, // Allows importing CommonJS modules
+        "forceConsistentCasingInFileNames": true,
+        "strict": true, // Enable all strict type-checking options
+        "skipLibCheck": true // Skips type checking of declaration files
+    },
+    "include": [
+        "src/**/*.ts"
+    ], // Include all TypeScript files in src folder
+    "exclude": [
+        "node_modules"
+    ] // Exclude dependencies
+}
